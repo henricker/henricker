@@ -18,4 +18,8 @@
   - MongoDb
   - Postgress
   - Day after day, I'm specializing in them. My dream is to become an expert on the javascript stack
+  
+### Social networks
+  - Linkedin: [henrique-vieira-406b781a7](https://www.linkedin.com/in/henrique-vieira-406b781a7/)
+  - Instagram: [henricker](https://www.instagram.com/henriicker/)
 
