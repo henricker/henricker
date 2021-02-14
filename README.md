@@ -13,7 +13,7 @@
   
   - Node js ❤️ ❤️ ❤️
   - Express 
-  - Nextjs
+  - Nestjs (learning)
   - ReactJs
   - MongoDb
   - Postgress
