@@ -3,7 +3,7 @@
 ### who i am?
   🏫 - Information systems student at Federal University at Ceará 
   
-  🧑🏼‍💻 -  Currently learning web technologies and make projects (yes! i'll be web developer! 😋)
+  🧑🏼‍💻 -  Currently learning web backend technologies and make projects (yes! i'll be web developer! 😋)
   
   🕵️‍♂️ - I love to learn new things, so I consider myself as a detective (HAHAHAHAHA!  😅 😂 ), because I always try to go deeper (especially when it comes to web development <3)
   
@@ -13,10 +13,9 @@
   
   - Node js ❤️ ❤️ ❤️
   - Express 
-  - Nestjs (learning)
-  - ReactJs
-  - MongoDb
-  - Postgress
+  - Nestjs
+  - MongoDb to NOSQL database
+  - Postgress to SQL database
   - Day after day, I'm specializing in them. My dream is to become an expert on the javascript stack
   
 ### Social networks
