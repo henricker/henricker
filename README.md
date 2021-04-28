@@ -16,7 +16,7 @@
   - Nestjs
   - MongoDb to NOSQL database
   - Postgress to SQL database
-  - Day after day, I'm specializing in them. My dream is to become an expert on the javascript stack
+  - Day after day, I'm specializing in them. My dream is to become an expert on the javascript back-end stack
   
 ### Social networks
   - Linkedin: [henrique-vieira-406b781a7](https://www.linkedin.com/in/henrique-vieira-406b781a7/)
