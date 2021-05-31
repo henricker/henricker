@@ -22,3 +22,4 @@
   - Linkedin: [henrique-vieira-406b781a7](https://www.linkedin.com/in/henrique-vieira-406b781a7/)
   - Instagram: [henricker](https://www.instagram.com/henriicker/)
 
+[![Henrique Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=henricker)](https://github.com/henricker/github-readme-stats)
