@@ -1,25 +1,21 @@
-## Hi, are you all right? 👋
+<p align="left">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=henricker&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=github_dark"
+    /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricker&layout=compact&theme=github_dark"> 
+</p>
 
-### who i am?
-  🏫 - Information systems student at Federal University at Ceará 
-  
-  🧑🏼‍💻 -  Currently learning web backend technologies and make projects (yes! i'll be web developer! 😋)
-  
-  🕵️‍♂️ - I love to learn new things, so I consider myself as a detective (HAHAHAHAHA!  😅 😂 ), because I always try to go deeper (especially when it comes to web development <3)
-  
-  😣 - I'm a shy person, but I'm try to get more involved with other people. I'm improving in this regard 😎
-  
-### My favorite technologies
-  
-  - Node js ❤️ ❤️ ❤️
-  - Express 
-  - Nestjs
-  - MongoDb to NOSQL database
-  - Postgress to SQL database
-  - Day after day, I'm specializing in them. My dream is to become an expert on the javascript back-end stack
-  
-### Social networks
-  - Linkedin: [henrique-vieira-406b781a7](https://www.linkedin.com/in/henrique-vieira-406b781a7/)
-  - Instagram: [henricker](https://www.instagram.com/henriicker/)
+<p align="left">
+    <a href="https://www.linkedin.com/in/henrique-vieira-406b781a7/" target="_blank" align="left">
+        <img src="https://res.cloudinary.com/andretorquato/image/upload/v1619373619/readmes/linkedin_ronjde.png" alt="linkedin profile" width="52">
+    </a>
+<a href="https://www.instagram.com/henriicker/" target="_blank" align="right">
+    <img src="https://res.cloudinary.com/andretorquato/image/upload/v1619373619/readmes/instagram_g5jldt.png" width="52">
+</a>
+</p>
 
-[![Henrique Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=henricker&show_icons=true&theme=synthwave)
+
+
+
