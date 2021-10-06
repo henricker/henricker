@@ -4,7 +4,7 @@
 <p align="center" style="font-size: 1.2rem">
   My name is Henrique Vieira and I currently work with backend web development.
 </br>
-  I'm currently studying technologies like NodeJs, Kafka and rabbitMQ.
+  I'm currently studying technologies like NodeJs, Kafka, rabbitMQ and serveless!.
 </br>
   I intend to become an expert in microservices and serveless 
 </p>
