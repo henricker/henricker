@@ -6,7 +6,7 @@
 </br>
   I'm currently studying technologies like NodeJs, Kafka, rabbitMQ and serveless!.
 </br>
-  I intend to become an expert in microservices and serveless 
+  I intend to become an expert in microservices
 </p>
 <p align="left">
   <img
