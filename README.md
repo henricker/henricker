@@ -8,7 +8,7 @@
 </br>
   I intend to become an expert in microservices
 </p>
-<p align="left">
+<!-- <p align="left">
   <img
     align="center"
     height="165"
@@ -16,7 +16,7 @@
   /> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricker&layout=compact&theme=github_dark"> 
 </p>
-
+ -->
 <p align="center">
   <a href="https://www.linkedin.com/in/henrique-vieira-406b781a7/" target="_blank" align="left">
       <img src="https://res.cloudinary.com/andretorquato/image/upload/v1619373619/readmes/linkedin_ronjde.png" alt="linkedin profile" width="52">
