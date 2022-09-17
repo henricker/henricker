@@ -2,7 +2,7 @@
   Hello, how are you?
 </h2>
 <p align="center" style="font-size: 1.2rem">
-  My name is Henrique Vieira and I currently work as a fullstack web development.
+  My name is Henrique Vieira and I currently work as a fullstack engineer at luby
 </br>
   I'm currently studying technologies like NodeJs, Kafka, rabbitMQ and serveless, ReactJs, Nextjs.
 </p>
