@@ -2,11 +2,9 @@
   Hello, how are you?
 </h2>
 <p align="center" style="font-size: 1.2rem">
-  My name is Henrique Vieira and I currently work with backend web development.
+  My name is Henrique Vieira and I currently work as a fullstack web development.
 </br>
-  I'm currently studying technologies like NodeJs, Kafka, rabbitMQ and serveless!.
-</br>
-  I intend to become an expert in microservices
+  I'm currently studying technologies like NodeJs, Kafka, rabbitMQ and serveless, ReactJs, Nextjs.
 </p>
 <!-- <p align="left">
   <img
