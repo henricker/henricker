@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning clean code, core modules of NodeJs, AWS, Kubernetes and devops culture! <br>🎯 Goals: I'll become an expert in backend solutions<br>🎲 Fun fact: I look like I'm 30 even though I'm 22 :( hahahaha.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 AWS, Kubernetes and devops culture! <br>🎯 Goals: I'll become an expert in backend solutions<br>🎲 Fun fact: I look like I'm 30 even though I'm 22 :( hahahaha.</p>
 
 ###
 
