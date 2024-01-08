@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 Nodejs, AWS and Rust<br>🎯 Goals: I'll become an expert in backend solutions<br>🎲 Fun fact: I look like I'm 30 even though I'm 23 :( hahahaha.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 NextJS, Nodejs, AWS and Rust<br>🎯 Goals: I'll become an expert in backend solutions<br>🎲 Fun fact: I look like I'm 30 even though I'm 23 :( hahahaha.</p>
 
 ###
 
