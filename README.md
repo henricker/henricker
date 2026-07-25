@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-<h4 align="left">My name is Henrique Vieira, I'm 25 years old, currently living in Boa Viagem, Ceará, Brazil, and I'm a passionate Software Engineer!</h4>
+<h4 align="left">My name is Henrique Vieira, I'm 26 years old, currently living in Boa Viagem, Ceará, Brazil, and I'm a passionate Software Engineer!</h4>
 <h2 align="left">About me</h2>
 <p align="left"> ✨ Creating impactful solutions since 2019<br> 📚 Expertise in Next.js, Node.js, AWS, and Rust<br> 🤖 Experienced in Artificial Intelligence, creating AI-driven sales funnels, and leveraging APIs like OpenAI, Gemini, and Llama to drive automation and innovation.<br> ☁️ Vast experience in cloud computing and AWS services, building scalable and efficient architectures.<br> 🎯 Goals: Becoming an expert in backend solutions and leading innovative AI projects.<br> 🎲 Fun fact: People say I look 30 even though I'm only 25 😅. </p>
 <h2 align="left">What I do</h2>
